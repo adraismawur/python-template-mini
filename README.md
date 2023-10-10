@@ -15,7 +15,7 @@ The code included in this repository is in itself a small tutorial on how to str
 |:------:|:----:|-----------------------------------|
 | 🐍     | [Mini](https://github.com/adraismawur/python-template-mini) | File and code structure           |
 | 🐍🐍   | [Midi](https://github.com/adraismawur/python-template-midi) | Requirements and packaging        |
-| 🐍🐍🐍 | [Maxi](https://github.com/adraismawur/python-template-maxi) | Automatic formatting and checks   |
+| 🐍🐍🐍 | [Maxi](https://github.com/adraismawur/python-template-maxi) | Testing, Automatic formatting and checks   |
 <!-- </span> -->
 
 
@@ -59,7 +59,15 @@ The code included in this repository is in itself a small tutorial on how to str
 3. Choose whether you want the repository to be public (anyone can see your code), or private.
 4. Press "Create repository"
 
-You will be taken to your own github page after a few seconds.
+You will be taken to your own github repository page after a few seconds.
+From here, you can make edits directly to your files, but it is more practical to download your repository to your local device. (cloning)
+
+1. On your github repository page, click the green button with the text "Code" in the top-right
+2. Copy the URL that starts with ```git@github.com:```
+3. On your device, open a terminal and navigate to a folder where you want your project to be stored
+4. Use the command ```git clone [git url from step 2]```
+
+Your repository will now appear in the folder you navigated to in step 3
 
 ### Start coding!
 

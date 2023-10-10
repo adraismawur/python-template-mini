@@ -14,7 +14,7 @@ The code included in this repository is in itself a small tutorial on how to str
 |        | link | Focus                             |
 |:------:|:----:|-----------------------------------|
 | 🐍     | [Mini](https://github.com/adraismawur/python-template-mini) | File and code structure           |
-| 🐍🐍   | [Midi](https://github.com/adraismawur/python-template-midi) | Requirements and packaging        |
+| 🐍🐍   | [Midi](https://github.com/adraismawur/python-template-midi) | Environments, Requirements and packaging        |
 | 🐍🐍🐍 | [Maxi](https://github.com/adraismawur/python-template-maxi) | Testing, Automatic formatting and checks   |
 <!-- </span> -->
 

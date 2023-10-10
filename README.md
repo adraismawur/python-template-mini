@@ -75,10 +75,11 @@ Generally, it is recommended to have the starting point of your code in a file w
 In there, the `main()` function calls all other functions from separate folders (called modules).
 
 Things to consider while you do so:
-- Commit early, commit often
-- Aim for ~300 lines of code max for a python file
-- You do not have to use the template/ subfolder if you have only a few functions/files
-- Have fun!
+
+✅ Commit early, commit often  
+✅ Aim for ~300 lines of code max for a python file  
+✅ You do not have to use the template/ subfolder if you have only a few functions/files  
+✅ Have fun!  
 
 
 ## Why should I use this?
@@ -96,7 +97,7 @@ This template is designed to help you structure your python code in a way that i
 
 ### A README file
 
-A README is the first point many people will go to to understand your project, and to figure out how to set up or install your program.
+❕ A README is the first point many people will go to to understand your project, and to figure out how to set up or install your program.
 
 You can put nearly anything you want in a README, but generally it is expected that the README file describes what your project is about and how you run your application.
 

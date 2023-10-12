@@ -22,8 +22,8 @@ The code included in this repository is in itself a small tutorial on how to str
 ### Table of contents:
 
 - [Quick start](#quick-start)
-- [What is included in this repository?](#what-is-included-in-this-repository)
 - [Why should I use this?](#why-should-i-use-this)
+- [What is included in this repository?](#what-is-included-in-this-repository)
 
 ## Quick start:
 

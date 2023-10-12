@@ -14,8 +14,8 @@ import sys
 # e.g. import numpy as np
 
 # then by your own code
-from your_project_name.module1.funct_say_hello import say_hello
-from your_project_name.module1.funct_another_file import another_function
+from module1.funct_say_hello import say_hello
+from module1.funct_another_file import another_function
 
 
 if __name__ == "__main__":

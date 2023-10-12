@@ -24,6 +24,7 @@ The code included in this repository is in itself a small tutorial on how to str
 - [Quick start](#quick-start)
 - [Why should I use this?](#why-should-i-use-this)
 - [What is included in this repository?](#what-is-included-in-this-repository)
+- [Guide to elements introduced here](#guide-to-elements-introduced-here)
 
 ## Quick start:
 
@@ -94,6 +95,8 @@ This template is designed to help you structure your python code in a way that i
 - A (copyleft) [license](#a-license)
 - A basic [folder structure](#folder-structure)
 - A .gitignore file
+
+## Guide to elements introduced here
 
 ### A README file
 

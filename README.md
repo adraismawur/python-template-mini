@@ -45,8 +45,8 @@ The code included in this repository is in itself a small tutorial on how to str
 1. On this GitHub page, click the **Code** dropdown button in the top-right
 2. Click Download ZIP
 3. Extract the files somewhere in a new directory
-4. Open a shell in the directory where you have extracted the files
-5. Edit the readme file to describe your project
+4. Edit the readme file to describe your project
+5. Open a shell in the directory where you have extracted the files
 6. Run `git add .` to stage all files
 7. Run `Git commit -m "initial commit"` to make your first commit
 
